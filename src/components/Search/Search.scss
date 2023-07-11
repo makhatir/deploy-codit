@@ -1,0 +1,48 @@
+.search-bar{
+    .input-bar{
+        display: inline;
+        position: relative;
+        .icon-clear{
+            position: absolute;
+            bottom: 0;
+            right: 10px;
+            cursor: pointer;
+        }
+    }
+
+padding: 41px;
+text-align: center;
+input {
+    height: 42px;
+    width: 618px;
+    border: hidden;
+    border-bottom: 2px solid #000091;
+    background-color: #EEEEEE;
+    font-family: 'Marianne-Regular';
+}
+button{
+    width: 174px;
+    height: 48px;
+    border: hidden;
+    color: #fff;
+    background-color: #000091;
+    position: relative;
+    top: 3px;
+    .btn-search{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        .icon-search{
+            padding: 5px;
+        }
+        .label-icon{
+            font-size: 18px;
+            font-weight: 500;
+            font-family: 'Marianne-regular';
+            line-height: 28px;
+        }
+    }
+
+}
+}
