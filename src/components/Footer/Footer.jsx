@@ -6,12 +6,12 @@ function Footer() {
       <div className="fr-footer">
         <div className="container bloc-nav">
           <div className="logo">
-            <img src="./logo.jpg" alt="Logo du site" />
+            <img src="https://travail-emploi.gouv.fr/IMG/logo/siteon0.jpg?1653922182" alt="Logo du site" />
           </div>
           <nav>
             <ul className="nav-link">
               <li>
-                <a href="legifrance.gouv.fr">
+                <a href="https://legifrance.gouv.fr" target="_blank">
                   legifrance.gouv.fr{" "}
                   <svg
                     width="16"
@@ -29,7 +29,7 @@ function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://gouvernement.fr" target="_blank">
                   gouvernement.fr{" "}
                   <svg
                     width="16"
@@ -47,7 +47,7 @@ function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://service-public.fr" target="_blank">
                   service-public.fr{" "}
                   <svg
                     width="16"
@@ -65,7 +65,7 @@ function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://data.gouv.fr" target="_blank">
                   data.gouv.fr{" "}
                   <svg
                     width="16"

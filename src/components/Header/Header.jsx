@@ -8,7 +8,7 @@ function Header() {
         <div className="fr-header">
           <div className="logo">
             <Link to="/">
-              <img src="./logo.jpg" alt="Logo du site" />
+              <img src="https://travail-emploi.gouv.fr/IMG/logo/siteon0.jpg?1653922182" alt="Logo du site" />
             </Link>
             <span className="site-title"> Cod'it</span>
           </div>
